@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+It's+_celill;" />
+</h1>
 
-<!--
-**celilllll/celilllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center" style="color: #555; font-family: 'Fira Code', monospace;">
+  A guy who is interested in <span style="color:#00C3FF; font-weight:bold;">Cybersecurity</span> 🇦🇿
+</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="font-size:16px; line-height:1.8;">
+  💻 <b>Currently Improving myself in:</b> Cybersecurity  <br/>
+  🌱 <b>Learning:</b> Network, PowerShell, Blue Team Stuff <br/> 
+  🎮 <b>Hobbies:</b>  Playing <a href="https://osu.ppy.sh/users/28000064" target="_blank">  Chess and Football  </a>
+</div>
+
+<br/>
+
+<!-- Reach Me -->
+<div align="center">
+  <h3 style="color:#5CE65C;">📫 Reach Me</h3>
+  <a href="mailto:sedzadecelil19@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50px" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+  <a href="https://www.instagram.com/_celilllll/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+  <a href="https://www.linkedin.com/in/celil-esedzade-36b6ab337/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+</div>
+
+<br/>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00C3FF, #FF6F91); box-shadow: 0 0 10px #00C3FF;" />
+
+<div align="center" style="max-width:600px; margin:auto; background:#f9f9f9; border-radius:15px; padding:20px; box-shadow:0 0 15px rgba(0,0,0,0.1);">
+   <i>"Karma never loses an address "</i> 
+</div>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF6F91, #00C3FF); box-shadow: 0 0 10px #FF6F91;" />
+
+<div align="center">
+  
+  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
